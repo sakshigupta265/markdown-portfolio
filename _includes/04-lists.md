@@ -1,3 +1,3 @@
--[] Mango
--[] Chocolate
--[] Pizza
+- Mango
+- Chocolate
+- Pizza
